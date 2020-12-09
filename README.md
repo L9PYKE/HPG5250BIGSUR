@@ -27,46 +27,83 @@ Board: HP 81EC
 
 SSD: 128GB KINGSTON A400
 
+
 What's working
 
+
 Audio. (Speaker and Headphone jack)
+
 Microphone. (Integrated and Headphone)
+
 Audio controls.
+
 LCD brightness.
+
 CPU Power Management. (Oficially supported)
+
 Metal. (Officially supported GPU)
+
 SD Card reader.
+
 Webcam.
+
 Bluetooth. (Fully Working with audio support, etc.)
+
 Ethernet.
+
 WI-FI.
+
 USB.
+
 Sleep.
+
 Trackpad (no gestures)
+
 HDMI(partially working, after long sleep requires a reboot to start again)
+
 Dual Booting (Windows and macOS)
+
 iMessage, FaceTime, iCloud.
+
 
 Not Working/Not tested
 
+
 Dedicated Radeon GPU (disabled by bootargs in OpenCore)
+
 HDMI Audio(not tested)
+
 Trackpad gestures
+
 Keyboard brightness control(WIP)
 
+
 Not tested(may work):
+
+
 VGA
+
 
 List of Patches and kexts
 
 
 RealtekRTL8100 Kext
+
 AppleBacklightFixup
+
 FakeSMC
+
 Lilu
+
 VoodooPS2Controller
+
 WhateverGreen
+
 Apple ALC
+
 USBInjectAll.kext
+
 Sleep fix : OpenCore
+
 Thank for the creators of OpenIntelWireless.
+
