@@ -1,6 +1,9 @@
 # HPG5250BIGSUR
 Big Sur Hackintosh Project for HP G5 250
 The laptop is pretty stable with this EFI/configuration
+
+https://user-images.githubusercontent.com/75743188/101651187-72e9a000-3a45-11eb-80ff-b18e38d2ab81.png
+
 Specifications: 
 
 CPU: Intel Core i5 6200U
