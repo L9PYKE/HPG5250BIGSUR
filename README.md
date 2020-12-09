@@ -55,6 +55,8 @@ Ethernet.
 
 WI-FI.
 
+VGA
+
 USB.
 
 Sleep.
@@ -82,15 +84,6 @@ HDMI Audio(not tested)
 Trackpad gestures
 
 Keyboard brightness control(WIP)
-
-
-
-
-
-Not tested(may work):
-
-
-VGA
 
 
 
