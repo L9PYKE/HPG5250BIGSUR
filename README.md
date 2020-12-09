@@ -28,6 +28,8 @@ Board: HP 81EC
 SSD: 128GB KINGSTON A400
 
 
+
+
 What's working
 
 
@@ -66,6 +68,10 @@ Dual Booting (Windows and macOS)
 iMessage, FaceTime, iCloud.
 
 
+
+
+
+
 Not Working/Not tested
 
 
@@ -78,10 +84,16 @@ Trackpad gestures
 Keyboard brightness control(WIP)
 
 
+
+
+
 Not tested(may work):
 
 
 VGA
+
+
+
 
 
 List of Patches and kexts
