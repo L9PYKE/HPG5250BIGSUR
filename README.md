@@ -69,3 +69,4 @@ WhateverGreen
 Apple ALC
 USBInjectAll.kext
 Sleep fix : OpenCore
+Thank for the creators of OpenIntelWireless.
