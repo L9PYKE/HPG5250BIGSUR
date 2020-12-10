@@ -61,9 +61,9 @@ USB.
 
 Sleep.
 
-Trackpad (no gestures)
+Trackpad fully working, gestures too
 
-HDMI(partially working, after long sleep requires a reboot to start again)
+HDMI(partially working, after long sleep requires unplug and plug back)
 
 Dual Booting (Windows and macOS)
 
@@ -81,7 +81,6 @@ Dedicated Radeon GPU (disabled by bootargs in OpenCore)
 
 HDMI Audio(not tested)
 
-Trackpad gestures
 
 Keyboard brightness control(WIP)
 
